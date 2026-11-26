@@ -1,0 +1,6 @@
+{
+  "name": "Live Vision",
+  "description": "Live multi-camera object and face tracking with frame enhancement and Gemini description.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
